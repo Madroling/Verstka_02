@@ -1,0 +1,81 @@
+body{
+  margin: 0px;
+/*
+  background-image: url(https://am3pap003files.storage.live.com/y4pHwj84UZtzdSF3mMWwzOVcg4A9gCutNMmz1Lwu3BWIA52TLEBPIl0NQkyzfNeWFB1smJj5Hm7uTz01lRcyDKo7BnjNmfXD89XvRqpYJoWk4hwPfr3D-nspEfl8rZe0VTjhQC68Zfw48zHE2i-EFoVX5INEF4iQuqQlwBpVuOPMp1mScBti39XGZC_qZa6vQ42M6MIn7s4Xfhp3y2WFumBmC6BKzvtWrMf-IH9YLZE6ao/751353.jpg?psid=1&width=953&height=536);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+*/
+}
+p{
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+.header-block{
+
+/*
+  width: 100%;
+  background-color: red;
+  height: 50px;
+*/
+}
+.header{
+  width: 100%;
+  background-color: #184358;
+  height: 60px;
+  display: flex;
+  justify-content: flex-end;
+}
+.menu-block{
+  margin-right: 15%;
+  align-items: center;
+}
+.menu ul{
+}
+.menu li{
+  font-size: 18px;
+  display: inline;
+  padding: 0 10px;
+  color: #fff;
+ }
+
+.content{
+  width: 85%;
+  margin: auto;
+}
+
+.image-box{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.image{
+
+  background-image: url(../img/arm.jpg);
+  min-height: 30vh;
+  height: 40vh;
+  width: 30vw;
+  margin: 0 10px;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
